@@ -8,7 +8,7 @@
 
 ### 어떻게 해요?
 
-`config/webpack.config.js` 파일 수정
+`config/webpack.config.js`에서 표시된 두 부분을 변경해주세요.
 
 ##### Before
 ```js
