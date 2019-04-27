@@ -1,4 +1,10 @@
-# CRA v2 + Webpack 4 환경에서 공용 Vendor 생성하기
+# CRA v2 + Webpack 4 환경에서 Vendor 설정하기
+
+### Vendor? 먹는 건가요?
+
+Vendor는 한 프로젝트 안에서 전역으로 사용하는 `3rd-party library`들을 빌드 시 분기해놓은 파일입니다. 코드 스플리팅을 진행하기 위해 꼭 설정해야 하는 파일입니다.
+
+
 
 ### 왜 만들었어요?
 
